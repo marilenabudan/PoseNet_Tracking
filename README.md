@@ -5,7 +5,8 @@ This project contains an interactive game that is controlled with three parts of
 
 ## THE GAME
 
-The main objective of the game is to collect golden collectives with the nose. There will only be one collectible at a time in the screen: once you collect a collectible object, another one will appear in a random position. Moreover, if you "press" the pink button with any of your wrists, the shape of the next collectibles will change to a flat golden cube. 
+The main objective of the game is to collect golden collectives with the nose. There will only be one collectible at a time in the screen: once you collect a collectible object, another one will appear in a random position. 
+At the beginning, collectibles will be golden coins. Moreover, the shape of the next collectibles can be changed by "pressing" the pink button with any of your wrists. There are two possible shapes: a golden coin or a golden flat cube.    
 
 ## OBJECTS OF THE SCENE
 
