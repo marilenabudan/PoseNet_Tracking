@@ -1,5 +1,5 @@
 # PoseNet_tracking
-## INTRODUCTION
+## INTRODUCTION
 
 This project contains an interactive game that is controlled with three parts of the body through PoseNet. 
 
